@@ -3,15 +3,15 @@
   "version": "4.6.9",
   "description": "A magical documentation generator.",
   "author": {
-    "name": "qingwei-li",
-    "email": "cinwell.li@gmail.com",
-    "url": "https://github.com/QingWei-Li"
+    "name": "Avaer Kazmer",
+    "email": "a@modules.io",
+    "url": "https://github.com/modulesio"
   },
   "homepage": "https://docsify.js.org",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/QingWei-Li/docsify.git"
+    "url": "git+https://github.com/webmixedreality/webmr-docs.git"
   },
   "main": "lib/docsify.js",
   "files": [

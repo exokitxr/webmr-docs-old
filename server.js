@@ -21,9 +21,9 @@ if (isSSR) {
   </body>
   </html>`,
     config: {
-      name: 'docsify',
-      repo: 'qingwei-li/docsify',
-      basePath: 'https://docsify.js.org/',
+      name: 'webmr-docs',
+      repo: 'webmixedreality/webmr-docs',
+      basePath: 'https://docs.webmr.io/',
       loadNavbar: true,
       loadSidebar: true,
       subMaxLevel: 3,
@@ -32,7 +32,7 @@ if (isSSR) {
         '/de-de/changelog': '/changelog',
         '/zh-cn/changelog': '/changelog',
         '/changelog':
-          'https://raw.githubusercontent.com/QingWei-Li/docsify/master/CHANGELOG'
+          'https://raw.githubusercontent.com/webmixedreality/webmr-docs/master/CHANGELOG'
       }
     },
     path: './'
