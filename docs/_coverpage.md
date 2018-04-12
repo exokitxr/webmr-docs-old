@@ -1,4 +1,4 @@
-![logo](_media/icon.svg)
+![logo](_https://imgur.com/a/rHHZp)
 
 # docsify <small>4.6.9</small>
 
