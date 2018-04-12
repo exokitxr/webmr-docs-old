@@ -1,29 +1,28 @@
-## docsify
+Welcome to the Exokit Docs
 
-> A magical documentation site generator.
+> A Browser for the Post - Screen Era.
 
-## What is it
+## Install the Latest Version of Exokit
 
-docsify generates your documentation website on the fly. Unlike GitBook, it does not generate static html files. Instead, it smartly loads and parses your Markdown files and displays them as website. All you need to do is create an `index.html` to start and [deploy it on GitHub Pages](deploy.md).
+For Windows:
+1.Install Node.js v10 at https://nodejs.org/download/nightly/v10.0.0-nightly2018040808a36a0666/ you head to that link and find your OS, download from there.
+2. download git: https://git-scm.com/download/win
+3. Head to https://desktop.github.com/ download github desktop and sign in/open it
+4. go to the top left of github desktop and hit 'File', 'Clone Repositor', type 'webmixedreality/exokit' in the top window, and go with the default path for download (should be C:\users\NAME\foldername, here's https://imgur.com/a/oC8F9 for reference on the download)
+4.5. Ctrl-Shift-F to open the directory to see the files and be sure they are there :)
+5. you open 'node.js command prompt' from start menu BE SURE ITS IN ADMIN MODE, type 'npm i -g windows-build-tools' into the window
+6. open 'node.js command prompt again' and copy in 'set PYTHON=C:\Users\YOURNAME\.windows-build-tools\python27\python.exe' be sure to replace YOURNAME with your username for the path, then punch in 'git', some stuff should happen no worries.
+7. now that that's done, in the command prompt, type 'cd (YOURPATHNAME)\exokit'
+8. Be sure you do the cd path name\exokit thing again, then type 'git submodule init' and 'git submodule update', then type `npm install` after that first bit is done, it should install
 
-See the [Quick start](quickstart.md) for more details.
 
-## Features
+## What Exokit Can Do
 
-* No statically built html files
-* Simple and lightweight (~19kB gzipped)
-* Smart full-text search plugin
-* Multiple themes
-* Useful plugin API
-* Emoji support
-* Compatible with IE10+
+*Load any http(s) site, Parse a programmatic DOM, Run any <script>, Load any <image>, <video>, <audio>, Register and run Web Workers, Render Canvas2D, Render WebGL, Render WebVR,  Handle gamepad input, Iframe isolation, Embed anywhere with node, Run tests, and Power a web bot.
+  
+*Things Exokit supports: HTTP(S), HTML5,  JS, DOM, CanvasRenderingContext2D, Image tag, Audio tag, Video tag,  Keyboard events, Mouse events, WebGL, WebVR, Gamepad API, No HTML layouts, and No CSS.
 
-- Support SSR ([example](https://github.com/QingWei-Li/docsify-ssr-demo))
 
-## Examples
+## How to do Examples on Docsify
 
 Check out the [Showcase](https://github.com/QingWei-Li/docsify/#showcase) to docsify in use.
-
-## Donate
-
-Please consider donating if you think docsify is helpful to you or that my work is valuable. I am happy if you can help me [buy a cup of coffee](https://github.com/QingWei-Li/donate). :heart:
