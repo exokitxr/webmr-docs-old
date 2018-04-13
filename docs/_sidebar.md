@@ -1,5 +1,3 @@
-* [Table of Contents](tableofcontents.md)
-
 * Overview
 
   * [Essential Tools for Exokit Platform](tools.md)
