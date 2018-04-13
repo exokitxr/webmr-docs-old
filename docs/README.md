@@ -1,4 +1,4 @@
-#Welcome to the Exokit Docs
+# Welcome to the Exokit Docs
 
 > A Browser for the Post - Screen Era.
 
