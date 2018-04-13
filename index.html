@@ -35,20 +35,7 @@
       subMaxLevel: 2,
       mergeNavbar: true,
       formatUpdated: '{MM}/{DD} {HH}:{mm}',
-      plugins: [
-        function (hook, vm) {
-          hook.beforeEach(function (html) {
-            var url = 'https://github.com/webmixedreakity/webmr-docs/blob/master/' + vm.route.file
-            var editHtml = '[:memo: Edit Document](' + url + ')\n'
-
-            return editHtml
-              + html
-              + '\n\n----\n\n'
-              + 'Last modified {docsify-updated} '
-              + editHtml
-          })
-        }
-      ]
+      plugins: []
     }
   </script>
   <script src="/lib/docsify.js"></script>

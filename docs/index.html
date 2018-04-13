@@ -54,19 +54,7 @@
         }
       },
       formatUpdated: '{MM}/{DD} {HH}:{mm}',
-      plugins: [
-        function (hook, vm) {
-          hook.beforeEach(function (html) {
-            var url = 'https://github.com/QingWei-Li/docsify/blob/master/docs/' + vm.route.file
-            var editHtml = '[:memo: Edit Document](' + url + ')\n'
-
-            return editHtml
-              + html
-              + '\n\n----\n\n'
-              + '<a href="https://docsify.js.org" target="_blank" style="color: inherit; font-weight: normal; text-decoration: none;">Powered by docsify</a>'
-          })
-        }
-      ]
+      plugins: []
     }
   </script>
   <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
