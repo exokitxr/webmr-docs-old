@@ -1,12 +1,10 @@
-![logo](_media/YTbanner.jpg)
+# Exokit
 
-# docsify <small>4.6.9</small>
+> A Web Browser For the Post Screen Era.
 
-> A magical documentation site generator.
+* Open Source 
+* Build in Native Code
+* Support WebVR Faster than Ever Before
 
-* Simple and lightweight (~19kB gzipped)
-* No statically built html files
-* Multiple themes
-
-[GitHub](https://github.com/QingWei-Li/docsify/)
-[Get Started](#docsify)
+[GitHub](https://github.com/webmixedreality/exokit)
+[Slack](https://exoslack.now.sh/)
