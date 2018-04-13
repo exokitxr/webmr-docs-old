@@ -5,7 +5,7 @@
 # Support    
   * [Join Our Slack](https://exoslack.now.sh/)
   * [Follow Exokit on Twitter!](https://twitter.com/webmixedreality)
-  * [Check Out Our Github](https://github.com/webmixedreality/exokit)
-  * [Avaer Streams Exokit Coding Live On Twitch](https://www.twitch.tv/avaer)
-  * [Watch Past Streams On Our Youtube](http://bit.ly/exokit-avaer)
+  * [The Exokit Github](https://github.com/webmixedreality/exokit)
+  * [Live Exokit Coding Daily on Twitch](https://www.twitch.tv/avaer)
+  * [Watch Past Streams on Youtube](http://bit.ly/exokit-avaer)
     
