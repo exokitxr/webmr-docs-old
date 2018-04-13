@@ -27,3 +27,5 @@
 * [API's and References](apiref.md)
 
 * [Resources](resources.md)
+
+* [Support](supportlinks.md)
