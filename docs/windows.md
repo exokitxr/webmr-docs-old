@@ -15,7 +15,7 @@
 
       * Open `node.js command prompt again` and copy in `set PYTHON=C:\Users\YOURNAME\.windows-build-tools\python27\python.exe` be sure to replace YOURNAME with your username for the path, then punch in `git`, some stuff should happen no worries.
 
-       * Now that that's done, in the command prompt, type `cd (YOURPATHNAME)\exokit`.
+      * Now that that's done, in the command prompt, type `cd (YOURPATHNAME)\exokit`.
 
-       * Be sure you do the cd path name\exokit thing again, then type `git submodule init` and `git submodule update`, then type `npm install` after that first bit is done, it should install.
+      * Be sure you do the cd path name\exokit thing again, then type `git submodule init` and `git submodule update`, then type `npm install` after that first bit is done, it should install.
 
