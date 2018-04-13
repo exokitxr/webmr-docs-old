@@ -1,28 +1,29 @@
-* Getting started
+* Overview
 
-  * [Quick start](quickstart.md)
-  * [Writing more pages](more-pages.md)
-  * [Custom navbar](custom-navbar.md)
-  * [Cover page](cover.md)
+  * [Essential Tools for Exokit Platform](tools.md)
+  * [Networks and Firewall Tips](firewall.md)
+  * [What Languages to Use and API's](languageapi.md)
+  * [Other Features and Libraries](features.md)
 
-* Customization
+* [Table of Contents](tableofcontents.md)
 
-  * [Configuration](configuration.md)
-  * [Themes](themes.md)
-  * [List of Plugins](plugins.md)
-  * [Write a Plugin](write-a-plugin.md)
-  * [Markdown configuration](markdown.md)
-  * [Language highlighting](language-highlight.md)
+* [Unique Terms and Functions](termsandfunctions.md)
+
+* All Quickstarts
+  * [Before You Begin](byb.md)
+  * [Initialize the SDK](sdkstart.md)
+  * [Windows Startup](windows.md)
+  * [Linux Startup](linux.md)
+  * [OSX Startup](osx.md)
+  * [What to Do Next](nextstep.md)
 
 * Guide
 
-  * [Deploy](deploy.md)
-  * [Helpers](helpers.md)
-  * [Vue compatibility](vue.md)
-  * [CDN](cdn.md)
-  * [Offline Mode(PWA)](pwa.md)
-  * [Server-Side Rendering(SSR)](ssr.md)
-  * [Embed Files <sup style="color:red">(new)<sup>](embed-files.md)
+  * [Installing the SDK](installsdk.md)
+  * [Setting Up the SDK](sdksetup.md)
+  * [Managing SDK Components](managesdk.md)
+  * [Commands to Know](commands.md)
 
-* [Awesome docsify](awesome.md)
-* [Changelog](changelog.md)
+* [API's and References](apiref.md)
+
+* [Resources](resources.md)
