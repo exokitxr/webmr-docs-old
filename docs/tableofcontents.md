@@ -6,7 +6,7 @@
    * [Languages to Use and API's](languageapi.md) 
    * [Other Features and Libraries](features.md)  
       
-## [explanation of any unique terms/functions to exokit and what they do](termsandfunctions.md) 
+## [Unique Terms and Functions](termsandfunctions.md) 
 ## Quickstarts for All OS's
 
    * [Before You Begin](byb.md) 
