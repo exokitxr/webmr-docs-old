@@ -5,8 +5,8 @@
    * [Networks and Firewalls Tips](firewall.md) 
    * [Languages to Use and API's](languageapi.md) 
    * [Other Features and Libraries](features.md)  
-      
-## [Unique Terms and Functions](termsandfunctions.md) 
+   * [Unique Terms and Functions](termsandfunctions.md) 
+
 ## Quickstarts for All OS's
 
    * [Before You Begin](byb.md) 
