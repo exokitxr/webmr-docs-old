@@ -24,6 +24,5 @@
    
 ## [API's and References](apiref.md) 
 
-## [Resources](resources.md) 
+## [Resources and Support](resources.md) 
 
-## [Support](supportlinks.md)
