@@ -1,4 +1,4 @@
-# Commands to Know
+# Functions to Know
     *Fill
     *this
     *in
