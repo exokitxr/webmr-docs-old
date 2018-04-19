@@ -3,7 +3,7 @@
     
     * To submit VR website links head over to our reddit page [here](https://www.reddit.com/r/exokit/). You are allowed to post a link only once in the forum, as the featured links are randomized for now. Feel free to comment what the site is below in the comments of each websites post.
 
-# Controls
+## Controls
     
     * When on a "non-VR only" (e.g. Magic Leap) form of entering Exokit, you will not be immediatly loaded into VR. Go ahead and hit enter VR with F1, enter VR on a Magic Leap with F2.
     
