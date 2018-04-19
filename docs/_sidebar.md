@@ -19,7 +19,7 @@
   * [Installing the SDK](installsdk.md)
   * [Setting Up the SDK](sdksetup.md)
   * [Managing SDK Components](managesdk.md)
-  * [Commands to Know](commands.md)
+  * [Functions to Know](commands.md)
 
 * [API's and References](apiref.md)
 
