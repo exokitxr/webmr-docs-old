@@ -8,4 +8,4 @@
   sudo apt-get update
   sudo apt-get disy-upgrade -y
   ```
-  Alternatively you might need to use a newer Linux release. This problem has been encountered in LTS versions.
+  Alternatively you might need to use a newer Linux release. This problem has been encountered in Ubuntu LTS versions. See also: https://stackoverflow.com/questions/43070900/version-glibcxx-3-4-22-not-found
