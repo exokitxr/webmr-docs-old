@@ -1,4 +1,8 @@
 # Setting up the SDK
 
-   * Clone the repo. Start the server, open URL in exokit. Edit the source files, and it should hotload changes.
+   * Clone the repo from [here](https://github.com/webmixedreality/exokit). 
+   
+   * Start the server, and open a URL in exokit. 
+   
+   * From there go ahead and edit the source files, and it should hotload changes.
     
