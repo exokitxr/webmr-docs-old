@@ -17,7 +17,5 @@
   * [Installing the SDK](installsdk.md)
   * [Setting Up the SDK](sdksetup.md)
   * [Functions to Know](commands.md)
-
-* [API's and References](apiref.md)
-
-* [Resources and Support](resources.md)
+  * [API's and References](apiref.md)
+  * [Resources and Support](resources.md)
