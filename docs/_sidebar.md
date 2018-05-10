@@ -1,7 +1,6 @@
 * Overview
 
   * [Essential Tools for Exokit Platform](tools.md)
-  * [Networks and Firewall Tips](firewall.md)
   * [What Languages to Use and API's](languageapi.md)
   * [Other Features and Libraries](features.md)
   * [Unique Terms and Functions](termsandfunctions.md)
