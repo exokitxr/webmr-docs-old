@@ -7,7 +7,6 @@
 
 * All Quickstarts
   * [Before You Begin](byb.md)
-  * [Initialize the SDK](sdkstart.md)
   * [Windows Startup](windows.md)
   * [Linux Startup](linux.md)
   * [OSX Startup](osx.md)
