@@ -1,7 +1,4 @@
 # Setting up the SDK
-    *Fill
-    *this
-    *in
-    *later
-    *hi avaer
+
+   * Clone the repo. Start the server, open URL in exokit. Edit the source files, and it should hotload changes.
     
