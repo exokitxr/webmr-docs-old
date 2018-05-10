@@ -2,9 +2,9 @@
 
 **Exokit Installation:**
 
-   * Head to our latest installer releases [here](https://github.com/webmixedreality/exokit/releases/)
+   * Head to our latest installer releases [here](https://github.com/webmixedreality/exokit/releases/).
 
-   * Navigate to the "exokit-macos-x64.dmg" file on the list of the most recent version of Exokit
+   * Navigate to the "exokit-macos-x64.dmg" file on the list of the most recent version of Exokit.
 
    * Run the .dmg download, and  be sure to allow any security clearance the installer might need.
 
