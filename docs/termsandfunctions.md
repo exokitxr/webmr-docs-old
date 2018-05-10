@@ -1,7 +1,7 @@
 # Unique Terms and Functions
-    *Fill
-    *this
-    *in
-    *later
-    *hi avaer
+
+   * We are currently planning on releasing a series of guides + videos on starting with Exokit and webVR development :)
+   
+   * This will be done as soon as initial code refining is complete.
+
     
