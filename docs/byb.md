@@ -1,15 +1,15 @@
 # Before You Begin
-   ## Things to Be Sure You Have
+**Things to Be Sure You Have**
    
    * A VR-capable GPU, since you're dealing with VR-style sites.
    
-   * If applicable, headset supported by OpenVR, which is most headsets on the market.
+   * If applicable, a headset supported by OpenVR really helps with testing your code. Most headsets on the market will do the trick.
    
-   * Broadband internet which means it passes the Youtube HD test, which is not a high requirement but also not universal.
+   * Broadband internet, which means it passes the Youtube HD test, it's not a high requirement but also not universal, so just be sure that you know what you are working with.
    
-   * Windows/OSX/Linux. Currently only Windows does VR, OSX coming soon, Linux someday!
+   * Windows/OSX/Linux as an OS. Currently only Windows does VR, OSX coming soon, and Linux after that!
    
    * If you're embedding exokit in another app, node 10+ will be required.
    
-   * And since you'll be coding, a text editor(aka IDE), any.
+   * And since you'll be coding, a text editor(aka IDE) to make your vision a virtual reality.
     
