@@ -1,5 +1,5 @@
 # Essential Tools for Exokit Platform
-What initial downloads, Languages, and any other programs/features should the dev be immediately aware of?
+**What initial downloads, Languages, and any other programs/features should the dev be immediately aware of?**
 
    * If you're just using exokit, grab a binary release. https://get.webmr.io/
    
