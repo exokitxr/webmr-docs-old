@@ -1,5 +1,5 @@
 # Exokit
-<img src="docs/_images/icon.png" alt="icon" style="width:500px;height:600px;">
+<img src="docs/_images/icon.png" alt="icon" style="width:250px;height:300px;">
 
 > A Web Browser For the Post Screen Era.
 
