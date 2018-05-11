@@ -23,7 +23,7 @@
 
 **Controls**
 
-* When on a "non-VR only" (e.g. Magic Leap) form of entering Exokit, you will not be immediatly loaded into VR. Go ahead and hit enter VR with the i key, enter VR on a Magic Leap with the o key.
+* When on a "non-VR only" (e.g. Magic Leap) form of entering Exokit, you will not be immediatly loaded into VR. Go ahead and hit enter VR with the `i` key, enter VR on a Magic Leap with the `o` key.
 * For Menu Access (the homepage URL bar and keyboard), "E" opens menu if using a keyboard, with a HTC Vive, accessing the menu comes by hitting the button ABOVE the thumb trackpad.
 
 ## Examples
