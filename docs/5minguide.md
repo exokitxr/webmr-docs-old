@@ -4,7 +4,7 @@
 
 ## Installing Exokit
 
-1. Be sure to grab a download for your OS [here](https://github.com/webmixedreality/exokit/releases/)
+1. Be sure to grab a download for your OS [here](https://get.webmr.io/)
 2. Run the downloaded file, and be sure to allow any security clearance the installer might need.
 (For Linux: apt-get install libglu1-mesa-dev uuid-dev to run the build, we recommend this for devs.\)
 
