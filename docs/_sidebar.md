@@ -1,5 +1,3 @@
-<img src="docs/_images/icon.png" alt="icon" style="width:25px;height:30px;">
-
 * Overview
 
   * [5 Minute Guide](5minguide.md)
