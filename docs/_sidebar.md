@@ -24,5 +24,5 @@
   * [API's and References](apiref.md)
   * [Resources and Support](resources.md)
 
-<img src="_images/icon.png" alt="icon" style="width:500px;height:600px;">
+
 
