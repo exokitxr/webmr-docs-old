@@ -2,7 +2,7 @@
 
 ## Getting Started
 
-Installing Exokit
+## Installing Exokit
 
 1. Be sure to grab a download for your OS [here](https://github.com/webmixedreality/exokit/releases/)
 2. Run the downloaded file, and be sure to allow any security clearance the installer might need.
@@ -12,7 +12,7 @@ Installing Exokit
 4. Go ahead and search for Exokit Browser, and run it.
 5. Now you are ready to start checking out sites and seeing what Exokit can do.
 
-Opening Websites and Examples
+## Opening Websites and Examples
 
 * When you run "Exokit Browser" a command prompt and a larger window will open, turn your attention to the larger window. In the window you will see a VR keyboard for our VR users \(or legacy if you have time to kill\), a URL bar, and flat boxes below the bar. 
 * Those boxes are our "Featured Sites" from our reddit \(see below for how to submit sites for feature\). Go ahead and enter any VR website URL, or point-and-click on any of the sites on the boxes below.
