@@ -1,5 +1,8 @@
-* **[5 Minute Guide](5minguide.md)**
 * Overview
+
+  * [5 Minute Guide](5minguide.md)
+  
+* Preparation
 
   * [Essential Tools for Exokit Platform](tools.md)
   * [What Languages to Use and API's](languageapi.md)
