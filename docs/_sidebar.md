@@ -1,4 +1,4 @@
-* [5 Minute Guide](5minguide.md)
+* **[5 Minute Guide](5minguide.md)**
 * Overview
 
   * [Essential Tools for Exokit Platform](tools.md)
