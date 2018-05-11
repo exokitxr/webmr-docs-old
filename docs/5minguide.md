@@ -32,27 +32,27 @@ Go to the ThreeJS [examples](https://threejs.org/examples/) page using your web 
 
 These ThreeJS examples will run in Exokit, so lets get into it. Let's try the first one, [animation/cloth](https://threejs.org/examples/#webgl_animation_cloth). Observe that this is a WebGL site, and that it renders fine in Chrome:
 
-![alt text](https://github.com/webmixedreality/webmr-docs/blob/master/docs/_images/image-6.png "Image-6")
+![alt text](_images/image-6.png)
 
 Now we're going to open this same site using Exokit.
 
 1. Open your Exokit Browser:
 
-![alt text](https://github.com/webmixedreality/webmr-docs/blob/master/docs/_images/exokit1.PNG "Exokit1")
+![alt text](_images/exokit1.png)
 
 2. Then simply paste or type the link of the example into the URL bar:
 
-![alt text](https://github.com/webmixedreality/webmr-docs/blob/master/docs/_images/exokit2.PNG "Exokit2")
+![alt text](_images/exokit2.png)
 
 3. Go ahead and hit enter \(in VR or on your own keyboard\), and the example should load up:
 
-![alt text](https://github.com/webmixedreality/webmr-docs/blob/master/docs/_images/exokit3.PNG "Exokit3")
+![alt text](_images/exokit3.png)
 
 ## Exokit's Command Prompt
 
 The Exokit command prompt is a NodeJS REPL. If you're a node developer, the interface should be quite familiar. Open Exokit Command Prompt and run the command, `.help` :
 
-![alt text](https://github.com/webmixedreality/webmr-docs/blob/master/docs/_images/exokit4.PNG "Exokit4")
+![alt text](_images/exokit4.png)
 
 To get to links from the command prompt itself, punch in the command: `.go`, then simply put in your desired URL.
 
