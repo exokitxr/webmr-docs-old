@@ -9,3 +9,6 @@
 
 [GitHub](https://github.com/webmixedreality/exokit)
 [Slack](https://exoslack.now.sh/)
+
+<img src="_images/icon.png" alt="icon" style="width:500px;height:600px;">
+
