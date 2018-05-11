@@ -38,21 +38,21 @@ Now we're going to open this same site using Exokit.
 
 1. Open your Exokit Browser:
 
-![alt text](_images/exokit1.png)
+![alt text](_images/exokit1.PNG)
 
 2. Then simply paste or type the link of the example into the URL bar:
 
-![alt text](_images/exokit2.png)
+![alt text](_images/exokit2.PNG)
 
 3. Go ahead and hit enter \(in VR or on your own keyboard\), and the example should load up:
 
-![alt text](_images/exokit3.png)
+![alt text](_images/exokit3.PNG)
 
 ## Exokit's Command Prompt
 
 The Exokit command prompt is a NodeJS REPL. If you're a node developer, the interface should be quite familiar. Open Exokit Command Prompt and run the command, `.help` :
 
-![alt text](_images/exokit4.png)
+![alt text](_images/exokit4.PNG)
 
 To get to links from the command prompt itself, punch in the command: `.go`, then simply put in your desired URL.
 
