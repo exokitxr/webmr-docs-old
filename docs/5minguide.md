@@ -10,7 +10,7 @@
 
 3. Then let the installer work its magic for a minute or so and congratulations you're a proud user of Exokit!
  * For PC Users: Choose your desired folder location (note: if not installing into your main drive (C Drive for most) then you may have to go into the folder yourself after and find a file called 'exokit' which will be a windows command prompt)
- * For OSX Users: A window should open with the Exokit app file and your applications folder, simply drag exokit into that folder.
+ * For OSX Users: A window should open with the Exokit app file and your applications folder, simply drag Exokit into that folder.
  * For Linux Users: It should be in your PATH once the script is done, go ahead and wget https://get.webmr.io/linux for further instructions
   
 4. Go ahead and search for Exokit Browser, and run it.
