@@ -23,3 +23,5 @@
   * [Functions to Know](commands.md)
   * [API's and References](apiref.md)
   * [Resources and Support](resources.md)
+
+![alt text](_images/icon.png)
