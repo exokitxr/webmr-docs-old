@@ -22,7 +22,7 @@ Controls
 * When on a "non-VR only" \(e.g. Magic Leap\) form of entering Exokit, you will not be immediatly loaded into VR. Go ahead and hit enter VR with F1, enter VR on a Magic Leap with F2.
 * For Menu Access \(the homepage URL bar and keyboard\), "E" opens menu if using a keyboard, with a HTC Vive, accessing the menu comes by hitting the button ABOVE the thumb trackpad.
 
-##Examples
+## Examples
 
 Let's open a ThreeJS website in Exokit.
 
