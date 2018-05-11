@@ -13,7 +13,7 @@
  * For OSX Users: A window should open with the Exokit app file and your applications folder, simply drag Exokit into that folder.
  * For Linux Users: It should be in your PATH once the script is done, go ahead and `curl https://get.webmr.io/linux`(or wget) for further instructions
   
-4. Go ahead and search for Exokit Browser, and run it.
+4. Go ahead and find/start the program `Exokit Browser`, and run it.
 5. Now you are ready to start checking out sites and seeing what Exokit can do.
 
 ## Opening Websites and Examples
